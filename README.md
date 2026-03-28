@@ -1,4 +1,4 @@
-# 🧠 Agent Skills
+# 🦸 Super Agent
 
 > Install and run AI-powered developer skills across Claude and Gemini.
 
